@@ -1,0 +1,15 @@
+{
+  "name": "c2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node --check index.js",
+    "test": "node test.js",
+    "package": "npm pack"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
